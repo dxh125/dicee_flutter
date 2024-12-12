@@ -10,5 +10,8 @@
 				"Dart-Code.flutter"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {}
 	}
 }
